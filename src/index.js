@@ -1,3 +1,9 @@
-import './css/main.css';
+//import './css/main.css';
+//import './scss/main.scss';
 
-console.log('hi im retarded');
+import {hello, sup, yeti} from './js/module';
+
+hello();
+sup();
+yeti("eeeaas");
+yeti("d");
