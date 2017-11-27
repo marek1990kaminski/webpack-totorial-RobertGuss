@@ -57,5 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
-# the bundle.js file inside dist
-dist/bundle.js
+# the files inside dist
+dist/
