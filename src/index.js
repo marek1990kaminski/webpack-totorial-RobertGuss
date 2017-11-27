@@ -1,7 +1,9 @@
 //import './css/main.css';
 import './scss/main.scss';
 
-import {hello, sup, yeti} from './js/module';
+import {sup, yeti} from './js/module';
+
+import {hello} from './js/hello';
 
 hello();
 sup();
