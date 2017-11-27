@@ -7,5 +7,5 @@ import {hello} from './js/hello';
 
 hello();
 sup();
-yeti("eeeaas");
+yeti("eeesadasaas");
 yeti("d");
